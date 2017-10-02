@@ -15,7 +15,7 @@ The project was built using anaconda, the list of dependencies required for the 
 
 1) Download environment.yml and MNIST_test.ipynb files.
 
-2) Open up a command prompt pointing to the location of the downloaded files.
+2) Open up a command prompt pointing to location of the downloaded files.
 
 3) Run the following commands
 
